@@ -1,4 +1,4 @@
-# b2w-reviews01
+# B2W-Reviews01
 
 B2W-Reviews01 is an open corpus of product reviews. It contains more than 130k e-commerce customer reviews, collected from the Americanas.com website between January and May, 2018. B2W-Reviews01 offers rich information about the reviewer profile, such as gender, age, and geographical location. The corpus also has two different review rates: the usual 5-point scale rate, represented by stars in most e-commerce websites, and also a "recommend to a friend" label, a "yes or no" question representing the willingness of the customer to recommend the product to someone else.
 
