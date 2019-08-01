@@ -1,2 +1,2 @@
 # b2w-reviews01
-Home of the B2WReviews-01 user reviews corpus
+Home of the B2W-Reviews01 user reviews corpus
